@@ -18,7 +18,7 @@ https://jerry0519-nycu.github.io/L2-vocabulary-test/
   - **in progress**（進行中）  
 - **文法**：  
   - 動詞常搭配介系詞 **in**（例：progress in technology）。  
-  - 名詞可搭配形容詞 **significant/rapid/slow progress**。  
+  - 名詞可搭配形容詞 **significant/rapid(快速的)/slow progress**。  
 
 **慣用法**：  
 - **Progress** 作動詞時，主語多為「事件」或「計畫」，而非人。  
@@ -88,7 +88,8 @@ https://jerry0519-nycu.github.io/L2-vocabulary-test/
 2. This ancient manuscript is **preserved** in a temperature-controlled room.  
    （這份古老手稿保存在恆溫室中。）  
 3. Salt was used to **preserve** meat in ancient times.  
-   （古時用鹽來保存肉類。）  
+   （古時用鹽來保存肉類。） 
+ - 
 
 **字根字首**：  
 - 同 **preservation**，源自拉丁語 **praeservare**（事先守護）。  
@@ -107,7 +108,7 @@ https://jerry0519-nycu.github.io/L2-vocabulary-test/
   - **catch a glimpse of**（瞥見）  
   - **a fleeting glimpse**（轉瞬即逝的一瞥）  
 - **文法**：  
-  - 動詞用法較少見，但可用 **glimpse at**（匆匆一瞥）。  
+  - 動詞用法較少見，但可用 **glimpse at = glance at**（匆匆一瞥）。  
 
 **例句**：  
 1. I caught a **glimpse** of the celebrity as she entered the car.  
@@ -219,9 +220,10 @@ https://jerry0519-nycu.github.io/L2-vocabulary-test/
 **例句**：  
 1. Electric cars are gradually **replacing** gasoline vehicles.  
    （電動車正逐步取代燃油車。）  
-2. The broken window was **replaced** with tempered glass.  
+2. The broken window was **replaced** with tempered glass.
+   bulletproof glass防彈玻璃
    （破損的窗戶被換成強化玻璃。）  
-3. No one can **replace** her role in the team.  
+4. No one can **replace** her role in the team.  
    （無人能取代她在團隊中的角色。）  
 
 **字根字首**：  
@@ -350,7 +352,8 @@ https://jerry0519-nycu.github.io/L2-vocabulary-test/
 **相關延伸**：  
 - **片語**：  
   - **political campaign**（政治活動）  
-  - **advertising campaign**（廣告宣傳）  
+  - **advertising campaign**（廣告宣傳）
+  - propaganda政治上的宣傳
 - **文法**：  
   - 動詞常搭配介系詞 **for/against**（例：campaign for human rights）。  
 
@@ -617,7 +620,8 @@ https://jerry0519-nycu.github.io/L2-vocabulary-test/
 2. Her smile during the ceremony was a **priceless** memory.  
    （她在典禮上的微笑是無價的回憶。）  
 3. The advice from my mentor was **priceless**.  
-   （導師的建議至關重要。）  
+   （導師的建議至關重要。）
+ - Health is priceless.
 
 **字根字首**：  
 - **price**（價格） + **-less**（無）→「無法定價的」即「極珍貴的」。  
