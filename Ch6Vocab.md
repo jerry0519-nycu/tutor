@@ -68,6 +68,9 @@
 
 * **trans-**（穿越）+ **act**（行動）→ 跨越之行動 → 交易。
 
+charge(v.)充電、指控
+in charge負責(=take the responsibility)
+
 ---
 
 ### **3. rate**
@@ -97,7 +100,7 @@
    （失業率近期下降了。）
 2. He was **rated** as one of the top ten chefs in the country.
    （他被評為全國十大廚師之一。）
-3. The hotel charges a daily **rate** of \$120.
+3. The hotel charges a daily **rate** of $120.
    （該飯店每日收費為 120 美元。）
 
 **字根字首**：
@@ -207,6 +210,9 @@
 
 * **ac-**（向）+ **cur**（關心，注意）→ 精確地注意 → 準確性。
 
+accurate(adj.)精準的
+satelite(n.)衛星
+
 ---
 
 ### **7. suburb**
@@ -238,6 +244,9 @@
 **字根字首**：
 
 * **sub-**（在下面）+ **urb**（城市）→ 城市周邊 → 郊區。
+
+urban(n.)都會區
+rural area偏遠的地區
 
 ---
 
@@ -344,6 +353,8 @@
 **字根字首**：
 
 * **net**（網）+ **work**（運作）→ 結構如網狀的系統。
+hotspot熱點
+
 
 ---
 
@@ -374,7 +385,8 @@
 **字根字首**：
 
 * **ef-**（外）+ **fic**（做）+ **-ency**（名詞後綴）→「做出來的結果」→ 效率。
-
+**vs effective(adj.)有效果的 effect(n.)效果(可數)**
+  
 ---
 
 ### **12. efficient**
@@ -457,6 +469,8 @@
 3. The company acted **swiftly** to recall the defective products.
    （公司迅速行動回收瑕疵產品。）
 
+shift(n./v.)(職位)變化、轉換
+
 ---
 
 ### **15. swift**
@@ -536,6 +550,7 @@
    （我們沿著原路回到瀑布。）
 3. The detective **retraced** the suspect’s movements.
    （偵探追蹤嫌犯的行動路線。）
+trace back追溯
 
 ---
 
@@ -544,7 +559,7 @@
 **中文**：
 
 * (vt.) 查出；追蹤；追查
-* (n.) 痕跡；遺跡（可數或不可數）
+* (n.) 痕跡；遺跡(=heritage)（可數或不可數）
 
 **KK音標**：
 
@@ -590,6 +605,7 @@
    （設計師今天和一位新客戶會面。）
 3. Maintaining good relationships with **clients** is crucial in this industry.
    （在這個行業中，維持良好的客戶關係至關重要。）
+high-profile(adj.)知名的
 
 ---
 
@@ -606,7 +622,7 @@
 **相關延伸**：
 
 * 搭配名詞：**massive earthquake**, **massive amount**, **massive building**
-* 用於抽象或具體事物
+* 用於**抽象或具體事物**
 
 **例句**：
 
@@ -655,7 +671,7 @@
 **中文**：
 
 * (vt.) 編碼
-* (n.) 密碼；代碼；法規（C/U）
+* (n.) 密碼(=password)；代碼；法規（C/U）
 
 **KK音標**：
 
@@ -665,6 +681,7 @@
 
 * **QR code**, **area code**, **code of conduct**（行為守則）
 * **decode**（解碼）
+* decipher(v)破譯、理解(少用)
 
 **例句**：
 
@@ -683,7 +700,7 @@
 
 ### **23. particular**
 
-**中文**：-
+**中文**：
 
 * (adj.) 特定的；講究的；詳細的
 
@@ -746,7 +763,7 @@
 
 **中文**：
 
-* (n.) 策略；戰術（C）
+* (n.) 策略；戰術（C）(=strategy)
 
 **KK音標**：
 
@@ -755,7 +772,7 @@
 **相關延伸**：
 
 * 通常作複數 **tactics** 使用
-* **marketing tactics**, **negotiation tactics**
+* **marketing tactics**, **negotiation(談判) tactics**
 
 **例句**：
 
@@ -776,7 +793,7 @@
 
 **中文**：
 
-* (adj.) 完美無瑕的；毫無缺點的
+* (adj.) 完美無瑕的；毫無缺點的(=immaculate)
 
 **KK音標**：
 
@@ -800,6 +817,8 @@
 
 * **flaw**（瑕疵）+ **-less**（無）→ 無瑕疵的
 
+blemish(n.)傷疤、汙點
+
 ---
 
 ### **27. flaw**
@@ -815,7 +834,7 @@
 **相關延伸**：
 
 * 可用於人、物、制度上的缺陷
-* 片語：**fatal flaw**, **character flaw**
+* 片語：**fatal(致命的) flaw**, **character flaw**
 
 **例句**：
 
