@@ -54,6 +54,8 @@
 **字根字首**：  
 - **ag-**（行動） + **-ency**（狀態）→「執行行動的組織」，即「機構」。  
 
+security/surveillance camera/CCTV:監視錄影
+
 ---
 
 ### **3. burst**  
@@ -83,6 +85,9 @@
 
 **字根字首**：  
 - 源自古英語 **berstan**（破裂），強調「突然性」。  
+
+tear(n.)眼淚(v.)撕破(常用+apart)
+standing ovation 起立鼓掌
 
 ---
 
@@ -114,6 +119,10 @@
 **字根字首**：  
 - 源自古英語 **slīpan**（滑動），與「平滑動作」相關。  
 
+slippery(adj.)滑的
+slippers(n.)拖鞋
+sandles(n.)涼鞋
+
 ---
 
 ### **5. arrest**  
@@ -128,7 +137,7 @@
 **相關延伸**：  
 - **片語**：  
   - **under arrest**（被逮捕）  
-  - **cardiac arrest**（心臟驟停）  
+  - **cardiac arrest**（心臟病發(=heart attack)）  
 - **文法**：  
   - 作動詞時，常用被動語態（例：He was arrested for theft）。  
 
@@ -142,6 +151,9 @@
 
 **字根字首**：  
 - **ar-**（朝向） + **rest**（停留）→「使停留」，引申為「逮捕」。  
+
+handcuff(n.)手銬
+handkerchief(n.)手帕
 
 ---
 
@@ -170,6 +182,8 @@
 **字根字首**：  
 - 源自古英語 **sīcan**（嘆息），擬聲詞，模仿嘆氣聲。  
 
+empathy(n.)同理心
+
 ---
 
 ### **7. compassionate**  
@@ -181,7 +195,9 @@
 
 **相關延伸**：  
 - **片語**：  
-  - **compassionate leave**（喪假）  
+  - **compassionate leave**（喪假）
+  - **sick leave** (病假)
+  - **official leave** (公假)
 - **文法**：  
   - 常修飾「人」或「行為」（例：a compassionate nurse）。  
 
@@ -195,6 +211,8 @@
 
 **字根字首**：  
 - **com-**（共同） + **passion**（情感） + **-ate**（形容詞後綴）→「共同感受痛苦」，即「有同情心的」。  
+
+passionate(adj.)熱情的(=enthusiastic)
 
 ---
 
@@ -281,13 +299,16 @@
 **額外補充**：  
 - 「starvation mode」指人體在長期飢餓時降低代謝以保存能量的生理反應。  
 
+stagnated inflation(n.)滯脹
+famine(n.)饑荒
+
 ---
 
 ### **11. seal**  
 **中文**：  
 - (vt.) 封鎖；關閉  
 - (vt.) 密封  
-- (n.) 印章；圖章  
+- (n.) 印章；圖章 ; 海豹 
 
 **KK音標**：  
 - 動詞：`sil`（重音在**單音節**）  
@@ -320,7 +341,7 @@
 ### **12. recruit**  
 **中文**：  
 - (vt.) 動員（某人）以幫助  
-- (vt.) 徵募；吸收（新成員）  
+- (vt.) 徵召入伍；吸收（新成員）  
 
 **KK音標**：  
 - `rɪˈkrut`（重音在**第二音節**）  
@@ -345,6 +366,9 @@
 
 **額外補充**：  
 - 「recruitment process」指企業或組織的招聘流程，包含面試、審核等階段。  
+
+soldier(n.)士兵
+military(n.)軍隊(=troop)
 
 ---
 
@@ -389,7 +413,8 @@
 **相關延伸**：  
 - **片語**：  
   - **sneak out**（溜出去）  
-  - **sneak peek**（搶先看）  
+  - **sneak peek**（搶先看）
+  - **sneak in** (潛行)  
 - **文法**：  
   - 過去式為 **sneaked** 或 **snuck**（口語常用）。  
 
@@ -411,7 +436,7 @@
 
 ### **15. obtain**  
 **中文**：  
-- (vt.) 獲得；贏得  
+- (vt.) 獲得；贏得 (=acquire) 
 
 **KK音標**：  
 - `əbˈten`（重音在**第二音節**）  
@@ -437,11 +462,14 @@
 **額外補充**：  
 - 法律文件中常見 **obtain**，如「obtain a patent」（取得專利）。  
 
+franchise(n.)特許權($\approx$ license)
+driver's license 駕照
+
 ---
 
 ### **16. convince**  
 **中文**：  
-- (vt.) 說服；勸說  
+- (vt.) 說服；勸說 (=pursuade) 
 - (vt.) 使相信；使信服  
 
 **KK音標**：  
@@ -557,6 +585,8 @@
 
 **額外補充**：  
 - 「human smuggling」指非法運送人口
+- human trafficking人口販賣
+- import(n.)進口  export(n.)出口
 
 ---
 
@@ -640,13 +670,15 @@
    （承認錯誤需要勇氣。）  
 
 **字根字首**：  
-- **courage**（勇氣） + **-ous**（形容詞後綴）→「充滿勇氣的」。  
+- **courage**（勇氣=bravery） + **-ous**（形容詞後綴）→「充滿勇氣的」。  
+embrace(n.)擁抱
+brace(n.)牙套
 
 ---
 
 ### **23. execution**  
 **中文**：  
-- (n.) 處決；處死  
+- (n.) 處決；處死(=decapitalize)
 - (n.) 執行；實施  
 
 **KK音標**：  
@@ -669,6 +701,9 @@
 
 **字根字首**：  
 - **ex-**（完全） + **sequi**（跟隨）→「徹底跟隨步驟」，即「執行」。  
+
+CEO=chief executive officer執行長
+CFO=chief financial officer財務長
 
 ---
 
@@ -697,6 +732,12 @@
 
 **字根字首**：  
 - 同 **execution**，源自拉丁語 **exsequi**（徹底執行）。  
+
+
+betray(v.)背叛(betrayal(n.)
+trailer(n.)預告片、拖車
+tailor(n.)裁縫
+trait(n.)特質
 
 ---
 
@@ -755,6 +796,9 @@
 **字根字首**：  
 - **docu-**（教導） + **-ment**（結果）→「用於教導的記錄」，即「文件」。  
 
+file(n.)檔案
+file a lawsuit提起訴訟
+
 ---
 
 ### **27. admit**  
@@ -767,7 +811,7 @@
 
 **相關延伸**：  
 - **片語**：  
-  - **admit guilt**（認罪）  
+  - **admit guilt**（認罪=plead guilty）  
   - **admit to a hospital**（住院）  
 - **文法**：  
   - 接 **that** 子句（例：He admitted that he lied）。  
@@ -782,6 +826,8 @@
 
 **字根字首**：  
 - **ad-**（朝向） + **mittere**（送）→「允許進入」。  
+
+administration(n.)行政
 
 ---
 
@@ -834,6 +880,8 @@
 **字根字首**：  
 - 直譯自字面意義，強調「全面性」。  
 
+**thorough(adj.)徹底的**
+
 ---
 
 ### **30. breathe a sigh of relief**  
@@ -880,6 +928,8 @@
 **字根字首**：  
 - **drown**（淹沒） + **out**（徹底）→ 強調「完全覆蓋聲音」。  
 
+drawn out from...(phr.)從...抽籤
+
 ---
 
 ### **32. take in...**  
@@ -903,6 +953,8 @@
 
 **字根字首**：  
 - **take**（拿取） + **in**（進入）→ 字面意為「帶入」，引申為「接納」或「吸收」。  
+
+takeout(=to-go)外帶
 
 ---
 
@@ -995,4 +1047,6 @@
    （既然同舟共濟，我們就合作吧。）  
 
 **字根字首**：  
-- 源自同舟共濟的比喻，強調「共同承擔風險」。  
+- 源自同舟共濟的比喻，強調「共同承擔風險」。
+
+to have it both ways腳踏兩條船
