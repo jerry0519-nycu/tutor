@@ -35,6 +35,8 @@
 **字根字首**：
 
 * **over-**（超過）+ **flow**（流動）→ 流得太多 → 溢出、氾濫
+* inflow(v.)流入
+* outflow(v.)流出
 
 ---
 
@@ -75,6 +77,7 @@
 **字根字首**：
 
 * 源自中古英語 *narwe*，意指「狹窄的、受限制的」
+broad(adj.)寬廣的
 
 ---
 
@@ -113,6 +116,16 @@
 **字根字首**：
 
 * **ex-**（外）+ **tend**（延伸）→ 向外延伸的程度 → 範圍、限度
+
+always總是
+frequently頻繁的
+sometimes有時候
+seldom $\approx$ hardly-ever很少
+never從不
+
+frequency頻率
+
+extension(n.)分機、伸長
 
 ---
 
@@ -154,6 +167,9 @@
 
 * **de-**（向下）+ **cline**（彎曲）→ 向下傾斜 → 衰退、下降
 
+ascend(v.)向上(=increase)
+decrease(v.)下降
+
 ---
 
 ### **5. dramatically**
@@ -170,7 +186,7 @@
 
 * **搭配詞**：
 
-  * **increase/drop/fall dramatically**（急遽增加／下降）
+  * **increase/drop/fall dramatically**（急遽(=exponentially)增加／下降）
   * **change dramatically**（劇烈改變）
 
 * **文法**：
@@ -191,6 +207,10 @@
 **字根字首**：
 
 * **drama**（戲劇）+ **-ically**（副詞字尾）→ 像戲劇一樣地 → 戲劇性地、劇烈地
+
+opera(n.)歌劇
+soap opera(n.)連續劇
+musical(n.)音樂劇
 
 ---
 
@@ -384,9 +404,7 @@
 
 * **in-**（進入）+ **vadere**（走、攻擊）→ 闖入 → 入侵、侵犯
 
----
-
-以下是第 **11–20** 個單字的講義，格式與你提供的 `overflow` 一致，包含詞性、音標、中文解釋、片語、文法說明、例句與字根字首說明：
+invade(v.)入侵
 
 ---
 
@@ -593,6 +611,11 @@
 
 * in-（進入）+ vad（走、行動）→ 帶兵走進 → 入侵
 
+sexual harassment性騷擾
+creep into潛入
+stalk(n./v.)莖/尾隨、跟蹤
+peep(v.)偷窺
+
 ---
 
 ### **17. complaint**
@@ -661,6 +684,10 @@
 
 * 同 complaint，來自拉丁 plangere（悲鳴）
 
+comply with遵守(=conform to)
+compliment(v.)稱讚
+complimentary(adj.)免費的
+
 ---
 
 ### **19. thoughtless**
@@ -694,6 +721,8 @@
 **字根字首：**
 
 * thought（思考）+ -less（無）→ 沒有思考的 → 粗心
+
+selfish(adj.)自私的
 
 ---
 
@@ -729,6 +758,10 @@
 **字根字首：**
 
 * thought（思考）+ -ful（充滿）→ 滿懷思考 → 體貼、沉思
+
+considerate(adj.)體貼的
+consider(v.)考慮
+considerable(adj.)大量的
 
 ---
 
@@ -766,6 +799,8 @@
 
 * con-（加強）+ serve（保留）→ 維持舊有 → 保守
 
+aggressive(adj.)激進的(=radical)
+
 ---
 
 ### **22. conserve**
@@ -799,6 +834,8 @@
 **字根字首：**
 
 * con-（加強）+ serve（保留）→ 保留 → 保存、節約
+
+preserve(v.)保存
 
 ---
 
@@ -969,6 +1006,7 @@
 2. He tends his grandmother every weekend.
    　（他每週末照顧祖母。）
 
+ 
 **字根字首：**
 
 * 拉丁 *tendere*（伸展、趨向）
@@ -1002,6 +1040,8 @@
    　（她有遲到的傾向。）
 2. There is a tendency for prices to rise in summer.
    　（夏天物價有上漲的趨勢。）
+3. People have a tendency to use artifical intelligence because it is convenient. 
+   
 
 **字根字首：**
 
@@ -1077,6 +1117,11 @@
 
 * re-（再次）+ cover（覆蓋 → 奪回）→ 重新獲得 → 康復、挽回
 
+regrow(v.)再生
+relive(v.)重生、痊癒
+relieve(v.)減輕
+cure(v.)治癒
+
 ---
 
 ### **31. relevant**
@@ -1111,6 +1156,9 @@
 
 * re-（再次）+ lev（舉起）→ 提出與……有關的內容
 
+irrevalent(adj.)不相關的
+relation(n.)關係
+
 ---
 
 ### **32. relevance**
@@ -1144,6 +1192,7 @@
 **字根字首：**
 
 * relevant + -ance（名詞後綴）
+* irrelavance(n.)不相關
 
 ---
 
@@ -1180,6 +1229,12 @@
 
 * e-（出）+ vid（看）→ 看得出來 → 證據
 
+proof(n.)證明(=pf.)
+prove(v.)證明
+judge(n.)法官
+lawyer(n.)律師
+prosecutor(n.)檢察官
+
 ---
 
 ### **34. evident**
@@ -1213,6 +1268,12 @@
 **字根字首：**
 
 * 同 evidence，來自 vid（看）
+
+obvious(adj.)明顯的
+oblivious(adj.)沒有察覺的
+obnoxous(adj.)討人厭的
+nauseous(adj.)反胃的
+apparent(adj.)明顯的
 
 ---
 
@@ -1282,6 +1343,13 @@
 
 * imply（暗示）+ -cation（名詞後綴）
 
+affect(v.)影響
+effect(n.)影響(=influence)
+influenza(n.)流感
+flu(n.)發燒
+runny nose流鼻水
+cough咳嗽
+
 ---
 
 ### **37. consequence**
@@ -1316,6 +1384,9 @@
 
 * con-（一起）+ sequ（跟隨）→ 跟隨而來的事 → 後果
 
+consequently結果(=eventually=at last)
+therefore因此(=thus)
+
 ---
 
 ### **38. consequent**
@@ -1349,7 +1420,7 @@
 **字根字首：**
 
 * consequence 的形容詞形式
-
+sequence(n.)數列、一系列的人事物
 ---
 
 ### **39. consequently**
@@ -1469,6 +1540,11 @@
 
   * **global economy**（全球經濟）
   * **economy class**（經濟艙）
+  * **budget airline** (廉航)
+  * **business class** (商務艙)
+  * **first class** (頭等艙)
+  * **cockpit** (駕駛室)
+  * incognito mode (無痕模式)
 
 **文法：**
 
@@ -1491,7 +1567,7 @@
 
 **中文：**
 
-* (adj.) 經濟的；合算的
+* (adj.) 經濟的；合乎預算的
 
 **KK音標：**
 
@@ -1503,6 +1579,8 @@
 
   * **economic growth**（經濟成長）
   * **economic policy**（經濟政策）
+  * **monetary policy** (貨幣政策)
+  * **fiscal policy** (財政政策)
 
 **文法：**
 
